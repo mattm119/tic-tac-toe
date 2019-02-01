@@ -1,5 +1,4 @@
 //Matthew Miles
-//C++ Exam 1
 //10/11/2016
 //Plays tic-tac-toe for 2 players
 
